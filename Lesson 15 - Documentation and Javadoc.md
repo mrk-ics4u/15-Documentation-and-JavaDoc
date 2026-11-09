@@ -112,7 +112,7 @@ A **precondition** is what must be true **before** the method runs for it to wor
  */
 ```
 
-The method **doesn't check** its preconditions. Keeping them true is the **caller's** job. Break one and the result is nonsense:
+This is used in documentation when the method **doesn't check** its preconditions. Keeping them true is the **caller's** job. Break one and the result is nonsense:
 
 ```java
 Enemy troll = new Enemy("Troll", 50, 9);
@@ -185,7 +185,7 @@ AP free-response questions describe every method with a comment and precondition
 
 ### ICS 4U
 
-"I can document every class, constructor, and method with Javadoc (description, `@param`, `@return`), state preconditions and postconditions, and use `//` comments to explain why" is a requirement of the course (A4.3, C2.1) and will be expected in your programming project.
+"I can create fully documented program code according to industry standards." is assessed in your programming project, and specific *Look Fors* have been added to the instructions document.
 
 ### AP Expectations
 

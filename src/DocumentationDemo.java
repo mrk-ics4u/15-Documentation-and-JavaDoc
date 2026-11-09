@@ -1,8 +1,8 @@
 /*
  * Name:        Lesson 15: Documentation and Javadoc (DocumentationDemo.java)
- * Description: Uses the documented Enemy class: the three kinds of comments,
- *              reading Javadoc by hovering, and what happens when a caller
- *              ignores a precondition.
+ * Description: Uses the documented Enemy class: the three kinds of comments, reading Javadoc by hovering 
+ *              
+ *              
  * Created by:  Mr Kowalczewski
  * Last edited: 2026-11-03
  */
